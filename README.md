@@ -1,6 +1,7 @@
 # Install
 ```
-git clone 
+git clone https://github.com/emibcn/react-test-graph-app.git
+cd react-test-graph-app
 ```
 
 # All in one

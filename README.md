@@ -6,7 +6,8 @@ cd react-test-graph-app
 
 # All in one
 ```
-docker-compose up --build -d; docker-compose logs -f
+docker-compose up --build -d
+docker-compose logs -f
 ```
 
 # Build
@@ -34,3 +35,6 @@ docker-compose logs -f
 ```
 docker-compose down
 ```
+
+# Access the app
+Open your browser and point it to http://127.0.0.1:3000

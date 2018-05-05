@@ -1,0 +1,14 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+ol, ul {
+  padding-left: 30px;
+}
+
+/* Place the graph to the right of the buttons */
+.graphapp {
+  display: flex;
+  flex-direction: row;
+}

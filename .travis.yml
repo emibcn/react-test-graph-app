@@ -1,0 +1,8 @@
+language: node_js
+install:
+  - npm install app
+node_js:
+  - "8"
+cache:
+  directories:
+    - "app/node_modules"

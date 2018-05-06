@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/emibcn/react-test-graph-app.svg?branch=master)](https://travis-ci.com/emibcn/react-test-graph-app)
+
 # Install
 ```
 git clone https://github.com/emibcn/react-test-graph-app.git
